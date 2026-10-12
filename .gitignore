@@ -1,0 +1,7 @@
+*.class
+build/
+out/
+prakashGC_data.txt
+.idea/
+.vscode/
+.DS_Store
